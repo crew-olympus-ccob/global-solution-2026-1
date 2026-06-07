@@ -47,12 +47,12 @@ Expressão booleana principal do diagnóstico
 
 Como executar
 -------------
-    python sistema.py
+    python src/sistema.py
 
 Estrutura esperada de pastas:
-    sistema.py
-    Crew_Olympus.png        (opcional — logo da equipe na pasta ao lado)
-    data/dados.csv          (arquivo modelo, via upload ou gerado)
+    src/sistema.py
+    assets/Crew_Olympus.png   (opcional — logo da equipe)
+    data/dados.csv            (arquivo modelo, via upload ou gerado)
 """
 
 from __future__ import annotations
@@ -1117,6 +1117,7 @@ class CrewOlympusApp(tk.Tk):
         """Tenta carregar a logo em diferentes localizações."""
         base = os.path.dirname(os.path.abspath(__file__))
         candidatos = [
+            os.path.join(base, "..", "assets", "Crew_Olympus.png"),
             os.path.join(base, "..", "Crew_Olympus.png"),
             os.path.join(base, "Crew_Olympus.png"),
         ]
