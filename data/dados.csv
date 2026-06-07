@@ -1,0 +1,9 @@
+horario,mod_suporte_vida,mod_energia,mod_comunicacao,mod_habitat,mod_laboratorio,mod_armazenamento,geracao,consumo,reserva,temp_interna,temp_externa,radiacao,qualidade_sinal,evento
+06:00,1,1,1,1,1,1,85,60,90,24,-45,baixa,98,Inicialização da missão
+08:00,1,1,1,1,1,1,80,65,85,25,-40,baixa,95,Painéis solares ativados
+10:00,1,1,1,1,1,1,75,70,80,26,-35,media,90,Comunicação estabelecida
+12:00,1,1,0,1,1,1,70,75,70,27,-30,alta,85,Oscilação energética detectada
+14:00,1,1,0,1,1,1,65,80,60,28,-25,alta,80,Falha parcial na comunicação
+16:00,1,1,0,1,1,1,60,85,50,29,-20,muito_alta,75,Aumento da radiação
+18:00,1,1,0,1,1,1,55,90,40,30,-15,alta,70,Modo economia ativado
+20:00,1,1,0,1,1,1,0,0,32,31,-10,baixa,65,Alerta crítico emitido
