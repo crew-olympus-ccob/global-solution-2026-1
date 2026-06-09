@@ -1117,9 +1117,9 @@ class CrewOlympusApp(tk.Tk):
         """Tenta carregar a logo em diferentes localizações."""
         base = os.path.dirname(os.path.abspath(__file__))
         candidatos = [
-            os.path.join(base, "..", "assets", "Crew_Olympus.png"),
-            os.path.join(base, "..", "Crew_Olympus.png"),
-            os.path.join(base, "Crew_Olympus.png"),
+            os.path.join(base, "..", "assets", "Crew_Olympus.ppm"),
+            os.path.join(base, "..", "Crew_Olympus.ppm"),
+            os.path.join(base, "Crew_Olympus.ppm"),
         ]
         for caminho in candidatos:
             if not os.path.exists(caminho):
