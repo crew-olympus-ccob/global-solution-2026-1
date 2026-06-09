@@ -16,6 +16,8 @@ Sistema desenvolvido para a Global Solution 2026 da FIAP, com o objetivo de moni
 
 # Sobre o Projeto
 
+<img width="541" height="675" alt="image" src="https://github.com/user-attachments/assets/258cc8d3-cbe5-461f-9ce1-909893b1ac33" />
+
 O sistema realiza o monitoramento de uma missão espacial através da leitura de arquivos CSV contendo dados de telemetria.
 
 A aplicação é capaz de:
@@ -41,8 +43,6 @@ A aplicação é capaz de:
 - Programação Orientada a Objetos
 - Estruturas de Dados
 - Regressão Linear (Mínimos Quadrados)
-
-Nenhuma biblioteca externa é necessária.
 
 ---
 
@@ -82,6 +82,8 @@ projeto/
 
 O sistema utiliza expressões booleanas para determinar a situação operacional da missão.
 
+<img width="1100" height="819" alt="image" src="https://github.com/user-attachments/assets/b72a3b9e-aa2f-4c70-b3c2-1340662bd756" />
+
 ## Estado Crítico
 
 ```text
@@ -103,11 +105,16 @@ AND NOT CRÍTICO
 NOT CRÍTICO AND NOT ALERTA
 ```
 
+<img width="1103" height="1000" alt="image" src="https://github.com/user-attachments/assets/7f39f176-11a5-44e8-a55a-0845c3a82bfa" />
+
+
 ---
 
 # Previsão de Consumo
 
 A previsão energética é realizada através de uma Regressão Linear Simples utilizando o método dos mínimos quadrados.
+
+<img width="1101" height="1001" alt="image" src="https://github.com/user-attachments/assets/12742469-1610-45dc-b2a9-1b9c54147158" />
 
 ## Fórmulas
 
