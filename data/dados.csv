@@ -1,4 +1,4 @@
-horario,mod_suporte_vida,mod_energia,mod_comunicacao,mod_habitat,mod_laboratorio,mod_armazenamento,geracao,consumo,reserva,temp_interna,temp_externa,radiacao,qualidade_sinal,evento
+﻿horario,mod_suporte_vida,mod_energia,mod_comunicacao,mod_habitat,mod_laboratorio,mod_armazenamento,geracao,consumo,reserva,temp_interna,temp_externa,radiacao,qualidade_sinal,evento
 06:00,1,1,1,1,1,1,85,60,90,24,-45,baixa,98,Inicialização da missão
 08:00,1,1,1,1,1,1,80,65,85,25,-40,baixa,95,Painéis solares ativados
 10:00,1,1,1,1,1,1,75,70,80,26,-35,media,90,Comunicação estabelecida
