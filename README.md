@@ -1,8 +1,8 @@
-# 🚀 Crew Olympus - Sistema Inteligente de Monitoramento da Missão
+# Crew Olympus - Sistema Inteligente de Monitoramento da Missão
 
 Sistema desenvolvido para a Global Solution 2026 da FIAP, com o objetivo de monitorar telemetria de uma missão espacial, identificar situações críticas, detectar inconsistências nos dados e prever consumo energético utilizando Regressão Linear.
 
-## 👨‍💻 Equipe Crew Olympus
+## Equipe Crew Olympus
 
 | Nome | RM |
 |--------|--------|
@@ -14,7 +14,7 @@ Sistema desenvolvido para a Global Solution 2026 da FIAP, com o objetivo de moni
 
 ---
 
-# 📋 Sobre o Projeto
+# Sobre o Projeto
 
 O sistema realiza o monitoramento de uma missão espacial através da leitura de arquivos CSV contendo dados de telemetria.
 
@@ -32,7 +32,7 @@ A aplicação é capaz de:
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python 3
 - Tkinter (Interface Gráfica)
@@ -46,7 +46,7 @@ Nenhuma biblioteca externa é necessária.
 
 ---
 
-# 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 projeto/
@@ -65,7 +65,7 @@ projeto/
 
 ---
 
-# 📊 Estruturas de Dados Utilizadas
+# Estruturas de Dados Utilizadas
 
 | Estrutura | Aplicação |
 |------------|------------|
@@ -78,7 +78,7 @@ projeto/
 
 ---
 
-# 🧠 Lógica de Diagnóstico
+# Lógica de Diagnóstico
 
 O sistema utiliza expressões booleanas para determinar a situação operacional da missão.
 
@@ -105,7 +105,7 @@ NOT CRÍTICO AND NOT ALERTA
 
 ---
 
-# 📈 Previsão de Consumo
+# Previsão de Consumo
 
 A previsão energética é realizada através de uma Regressão Linear Simples utilizando o método dos mínimos quadrados.
 
@@ -127,7 +127,7 @@ Onde:
 
 ---
 
-# 🔎 Detecção de Inconsistências
+# Detecção de Inconsistências
 
 O sistema verifica automaticamente situações incoerentes nos dados.
 
@@ -167,7 +167,7 @@ Sinal > 80%
 
 ---
 
-# 📑 Funcionalidades
+# Funcionalidades
 
 ## Painel Geral
 
@@ -214,7 +214,7 @@ Sinal > 80%
 
 ---
 
-# ▶️ Como Executar
+# Como Executar
 
 ## Clone o projeto
 
@@ -236,7 +236,7 @@ python src/sistema.py
 
 ---
 
-# 📄 Formato Esperado do CSV
+# Formato Esperado do CSV
 
 ```csv
 horario,mod_suporte_vida,mod_energia,mod_comunicacao,mod_habitat,mod_laboratorio,mod_armazenamento,geracao,consumo,reserva,temp_interna,temp_externa,radiacao,qualidade_sinal,evento
@@ -250,7 +250,7 @@ Exemplo:
 
 ---
 
-# 🎯 Objetivo Acadêmico
+# Objetivo Acadêmico
 
 Este projeto foi desenvolvido para demonstrar a aplicação prática de:
 
@@ -267,6 +267,6 @@ no contexto de monitoramento inteligente de sistemas críticos.
 
 ---
 
-# 📜 Licença
+# Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos na FIAP - Global Solution 2026.
