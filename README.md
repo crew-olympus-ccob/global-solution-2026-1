@@ -16,7 +16,7 @@ Sistema desenvolvido para a Global Solution 2026 da FIAP, com o objetivo de moni
 
 # Sobre o Projeto
 
-<img width="541" height="675" alt="image" src="https://github.com/user-attachments/assets/258cc8d3-cbe5-461f-9ce1-909893b1ac33" />
+<img width="539" height="671" alt="image" src="https://github.com/user-attachments/assets/540617d7-2d44-495a-915c-49f465b8dece" />
 
 O sistema realiza o monitoramento de uma missão espacial através da leitura de arquivos CSV contendo dados de telemetria.
 
@@ -82,7 +82,7 @@ projeto/
 
 O sistema utiliza expressões booleanas para determinar a situação operacional da missão.
 
-<img width="1100" height="819" alt="image" src="https://github.com/user-attachments/assets/b72a3b9e-aa2f-4c70-b3c2-1340662bd756" />
+<img width="1100" height="727" alt="image" src="https://github.com/user-attachments/assets/67d0ed84-f969-40a3-b35e-e9a6e25648ee" />
 
 ## Estado Crítico
 
@@ -105,7 +105,7 @@ AND NOT CRÍTICO
 NOT CRÍTICO AND NOT ALERTA
 ```
 
-<img width="1103" height="1000" alt="image" src="https://github.com/user-attachments/assets/7f39f176-11a5-44e8-a55a-0845c3a82bfa" />
+<img width="1102" height="875" alt="image" src="https://github.com/user-attachments/assets/18616c8d-f597-41b2-b7f1-43e050b3b103" />
 
 
 ---
@@ -114,7 +114,7 @@ NOT CRÍTICO AND NOT ALERTA
 
 A previsão energética é realizada através de uma Regressão Linear Simples utilizando o método dos mínimos quadrados.
 
-<img width="1101" height="1001" alt="image" src="https://github.com/user-attachments/assets/12742469-1610-45dc-b2a9-1b9c54147158" />
+<img width="1100" height="928" alt="image" src="https://github.com/user-attachments/assets/b55d09eb-525d-4723-8270-452abfcb9a59" />
 
 ## Fórmulas
 
